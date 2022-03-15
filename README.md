@@ -3,7 +3,7 @@
 
 • Este projeto faz parte de um processo seletivo para estágio
 
-<img src="https://www.mediafire.com/view/91cqcnbrxhk1g41/%2528Copy_of%2529_wireframe-fase1_%25281%2529.jpeg/file">
+<img src="https://github.com/cvrocha/Wireframe/issues/1#issue-1169913223">
 
 <br><br><br><br><br><br><br><br>
 
