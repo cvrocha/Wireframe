@@ -1,7 +1,7 @@
 <h1 align="center">📑&nbsp;Wireframe PT-BR 📑&nbsp;</h1>
 <p align="left">  </p>
 
-<h3>• Este projeto faz parte de um processo seletivo para estágio</h3><br>
+<h3>• Este projeto faz parte de um processo seletivo para estágio, esse site obedece as normas estabelecidas pela empresa e contém responsividade.</h3><br>
 <h3>🖱️&nbsp;Clique aqui:</h3>
 <h3>➡️&nbsp;https://cvrocha.github.io/Wireframe/ ⬅️&nbsp;</h3>
 
@@ -12,7 +12,7 @@
 <h1 align="center">📑&nbsp;Wireframe EN📑&nbsp;</h1>
 <p align="left">  </p>
 
-<h3>• This is a home automation project using arduino.</h3><br>
+<h3>This project is part of a selection process for an internship, this site complies with the rules established by the company and contains responsiveness.</h3><br>
 <h3>🖱️&nbsp;Click here:</h3>
 <h3>➡️&nbsp;https://cvrocha.github.io/Wireframe/ ⬅️&nbsp;</h3>
 
