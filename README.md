@@ -1,9 +1,9 @@
 <h1 align="center">📑&nbsp;Wireframe PT-BR 📑&nbsp;</h1>
 <p align="left">  </p>
 
-• Este projeto faz parte de um processo seletivo para estágio
+<p style="color: red;">• Este projeto faz parte de um processo seletivo para estágio</p>
 
-<img src="https://github.com/cvrocha/Wireframe/issues/1#issue-1169913223" width: 800px;>
+<img src="https://user-images.githubusercontent.com/62439381/158426420-94f6d81f-08ff-47d4-83d1-4ff1fbfcb31d.jpeg">
 
 <br><br><br><br><br><br><br><br>
 
